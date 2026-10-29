@@ -5,7 +5,7 @@ description: >-
   for GitHub code scanning. Powered by a11y-toolkit (MIT, zero deps).
 author: 'kinti'
 branding:
-  icon: 'eye'
+  icon: 'gear'
   color: 'green'
 
 inputs:

@@ -1,4 +1,4 @@
-# a11y-watch — the official GitHub Action
+# <img src="logo.svg" width="64" alt="a11y.es symbol: a gear with a green check" valign="middle"> a11y-watch — the official GitHub Action
 
 One line in a workflow and your repo watches its site's accessibility every
 week: WCAG 2.2 audit, SARIF to code scanning, and the error-budget ratchet —
