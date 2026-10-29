@@ -1,8 +1,5 @@
 name: 'a11y-watch'
-description: >-
-  Accessibility watchdog: scheduled WCAG 2.2 audit + error-budget ratchet —
-  only NEW findings block, so legacy debt never blocks adoption. Emits SARIF
-  for GitHub code scanning. Powered by a11y-toolkit (MIT, zero deps).
+description: "Accessibility watchdog: WCAG 2.2 audit + SARIF + budget ratchet — only NEW findings block. Powered by a11y-toolkit."
 author: 'kinti'
 branding:
   icon: 'gear'
